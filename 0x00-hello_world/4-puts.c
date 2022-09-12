@@ -2,7 +2,7 @@
 
 /**
 *main - ("Programming is like building a multilingual puzzle)
-*Return - 0 + "Programming is like building a multilingual puzzle
+*Return: "Programming is like building a multilingual puzzle + 0
 */
 
 int main(void)
