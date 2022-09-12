@@ -2,7 +2,7 @@
 
 /**
 *main - ("Programming is like building a multilingual puzzle)
-*Return - 0+"Programming is like building a multilingual puzzle
+*Return - 0 + "Programming is like building a multilingual puzzle
 */
 
 int main(void)
@@ -11,5 +11,5 @@ int main(void)
 
 	puts(str);
 
-	return 0;
+	return (0);
 }
