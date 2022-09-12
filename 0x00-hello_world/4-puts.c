@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * puts - is used to write a line or string to the output( stdout ) stream
- */
+*Hello, print - is used to write a line or string to the output( stdout ) stream
+*/
 
 int main(void)
 {
-	char *str = ""Programming is like building a multilingual puzzle";
+	char *str = "\"Programming is like building a multilingual puzzle";
 
 	puts(str);
 
