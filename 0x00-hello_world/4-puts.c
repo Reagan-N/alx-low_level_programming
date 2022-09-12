@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
-*Hello, print - is used to write a line or string to the output( stdout ) stream
+*main - ("Programming is like building a multilingual puzzle)
+*Return - 0+"Programming is like building a multilingual puzzle
 */
 
 int main(void)
