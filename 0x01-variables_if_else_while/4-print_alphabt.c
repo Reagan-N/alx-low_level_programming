@@ -9,9 +9,9 @@ int main(void)
 {
 	char alp = 'a';
 
-	while (alp <= 'z')
+	for (alp = 'a'; alp <= 'z'; alp++)
 	{
-		if (alp == 'q' && alp == 'e')
+		if (alp == 'q' || alp == 'e')
 			continue;
 		putchar(alp);
 	}
