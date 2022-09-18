@@ -7,13 +7,13 @@
 
 int main(void)
 {
-	char alp = 'a';
+	int alp = 'a';
 
 	while (alp <= 'z')
 	{
-		if (alp == 'q' && alp == 'e')
-			continue;
-		putchar(alp);
+		if (alp != 'q' && alp != 'e')
+			putchar(alp);
+		alp++;
 	}
 	putchar('\n');
 
