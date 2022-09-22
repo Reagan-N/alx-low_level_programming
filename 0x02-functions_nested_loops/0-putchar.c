@@ -7,11 +7,13 @@
  */
 int _putchar(char c)
 {
-	char i;
-	i = "_putchar";
+	int i;
 
+	for (i = "_putchar";)
+	{
 	_putchar(i);
-	_putchar("\n");
+	}
+	_putchar('\n');
 
 	return (0);
 }
